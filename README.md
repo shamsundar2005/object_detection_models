@@ -1,6 +1,6 @@
 # Object Detection Models - README
 
-This README provides an overview and setup instructions for four object detection models: YOLOv5, YOLOv7, YOLOv8, and a Custom Fine-Tuned Model. Each model is optimized for different use cases and comes with a specific implementation to support real-time RTSP stream processing.
+Four object detection models: YOLOv5, YOLOv7, YOLOv8, and a Custom Fine-Tuned Model. Each model is optimized for different use cases and comes with a specific implementation to support real-time RTSP stream processing.
 
 ## 1. YOLOv5
 
